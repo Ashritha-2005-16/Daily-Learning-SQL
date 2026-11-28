@@ -9,6 +9,7 @@ B.Tech Computer Science (Data Science) graduate, 2026. Open to Software Engineer
 | Date       | Topic |
 |------      |-------|
 | 2026-11-26 | SELECT, FROM, WHERE with AND, OR, NOT |
+| 2026-11-28 | ORDER BY (ASC, DESC, multiple columns, LIMIT) | 
 
 ## Upcoming
 - ORDER BY, LIMIT
